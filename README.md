@@ -1,5 +1,21 @@
 # inox-ee/gh-topstar
 
+## How to install
+
+```shell-session
+# use go get if your go version is less than 1.16
+$ go install github.com/inox-ee/gh-topstar
+```
+
+## How to uninstall
+
+```shell-session
+$ rm -rf $GOPATH/pkg/mod/inox-ee
+$ rm $GOPATH/bin/gh-topstar
+```
+
+or please tell me uninstall command
+
 ## How to Use
 
 Ex)
