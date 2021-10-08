@@ -1,4 +1,4 @@
-module gh-topstar
+module github.com/inox-ee/gh-topstar
 
 go 1.16
 
